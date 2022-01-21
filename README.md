@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there, I'm João Avelino, a web developer from Curitiba, Brazil!
+
+## My skillset:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolavelino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### To get in touch:
+
+
 
 <!--
 **joaolavelino/joaolavelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

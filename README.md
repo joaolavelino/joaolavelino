@@ -1,7 +1,7 @@
 # Hi there, I'm João Avelino, a web developer from Curitiba, Brazil!
 
 ## My skillset:
-<img src="https://github.com/joaolavelino/joaolavelino/blob/main/icons2.png" width="745" height="58"/>
+<img src="https://github.com/joaolavelino/joaolavelino/blob/main/icons2.png" width="372" height="29"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolavelino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -3,10 +3,9 @@
 
 - 🔭 I’m currently working on **Unicloud**
 
-- 🌱 I’m currently learning **Typescript, Next.JS, Jest**
+- 🌱 I’m currently learning **Typescript, Next.JS, Testing**
 
-- 👨‍💻 All of my projects are available at [joaolavelino.netlify.net](joaolavelino.netlify.net)
-
+- 👨‍💻 All of my projects are available at https://joaolavelino.netlify.app
 - 📫 How to reach me **joaolavelino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

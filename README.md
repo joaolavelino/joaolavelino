@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">A frontend developer from Curitiba - Brazil!</h3>
+<h3 align="center">A frontend / artist / designer / musician developer from Curitiba - Brazil!</h3>
+
+
 
 - 🔭 I’m currently working on **Unicloud**
 
 - 🌱 I’m currently learning **Typescript, Next.JS, Testing**
 
 - 👨‍💻 All of my projects are available at https://joaolavelino.netlify.app
+- 
 - 📫 How to reach me **joaolavelino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
